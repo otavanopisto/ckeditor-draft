@@ -1,12 +1,12 @@
 { 
-  "author": "Antti Leppä / Otavan Opisto",
-  "name": "coops",
+  "author": "Otavan Opisto",
+  "name": "ckeditor-draft",
   "license": "LGPL-v3",
   "licenses": [{
     "type": "LGPL-v3",
     "url": "http://www.gnu.org/licenses/lgpl-3.0.html"
   }],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/otavanopisto/ckeditor-draft",
   "engines": {
     "node": ">= 0.10.0"
